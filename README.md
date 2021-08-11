@@ -1,4 +1,6 @@
-## Olá, Me chamo Luis Gustavo 🐱‍👤
--📚 Iniciante na área de Programação 
--🐱‍🏍 Autodidata em Programaçao
--🐱‍💻 Aprendendo HTML
+## Olá, Me chamo Luis Gustavo 👾
+
+- :books: Aprendendo Programação
+- :computer: Autodidata 
+- :book: Iniciando no HTML 
+- :smile: Seja Bem vindo
